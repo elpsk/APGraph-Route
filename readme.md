@@ -1,11 +1,11 @@
-iOS Dijkstra [![Build Status](https://travis-ci.org/node-app/Interpreter.png?branch=master)](https://travis-ci.org/node-app/Interpreter)
+iOS Dijkstra [![Build Status](https://raw.github.com/elpsk/APGraph-Route/master/passing.png)](https://raw.github.com/elpsk/APGraph-Route/master/passing.png)
 ------------
 
 A simple iOS Dijkstra algorithm implementation applyed on the Milan ATM Metro.
 
 Screenshot
 ------------
-![SS Screenshot](http://i.stack.imgur.com/I0ekn.png "SS")
+![SS Screenshot](https://raw.github.com/elpsk/APGraph-Route/master/sshot.png "SS")
 
 
 Requirements
