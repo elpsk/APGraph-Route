@@ -1,7 +1,7 @@
 iOS Dijkstra [![Build Status](https://raw.github.com/elpsk/APGraph-Route/master/passing.png)](https://raw.github.com/elpsk/APGraph-Route/master/passing.png)
 ------------
 
-A simple iOS Dijkstra algorithm implementation applyed on the Milan ATM Metro.
+A simple iOS Dijkstra algorithm implementation applied on the Milan ATM Metro.
 
 Screenshot
 ------------
