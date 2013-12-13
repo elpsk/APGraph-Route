@@ -1,46 +1,73 @@
-# Shopping Cart
+iOS Dijkstra [![Build Status](https://travis-ci.org/node-app/Interpreter.png?branch=master)](https://travis-ci.org/node-app/Interpreter)
+------------
 
-A simple drag 'n drop shopping cart for iOS.
+A simple iOS Dijkstra algorithm implementation applyed on the Milan ATM Metro.
 
-Created for a stackoverflow question, this one:
-http://stackoverflow.com/questions/3960960/drag-an-uiimageview-from-uiscrollview-to-another-view
-
+Screenshot
+------------
 ![SS Screenshot](http://i.stack.imgur.com/I0ekn.png "SS")
 
 
-iOS 5.0+. ARC.
-
-![A Screenshot](https://raw.github.com/elpsk/Shopping-Cart/master/A.png "A")
-![B Screenshot](https://raw.github.com/elpsk/Shopping-Cart/master/B.png "B")
-![C Screenshot](https://raw.github.com/elpsk/Shopping-Cart/master/C.png "A")
-![D Screenshot](https://raw.github.com/elpsk/Shopping-Cart/master/D.png "B")
-
-More example on www.albertopasca.it/whiletrue
+Requirements
+------------
+`ARC`, `iOS 6+`, `Xcode 4+`
 
 
-## How to use
+Workspace
+------------
+- Metro Full iPad app
+- APGraphLib ( target )
+- APGraph-lib-test ( target test )
+- Test Case
+
+
+How to use
+------------
+
+Copy in your project the files:
 
 ```
-	APChartObject appleObject = [[APChartObject alloc] initWithFrame:CGRectMake(0, 0, 80, 80) target:self selector:@selector(panDetected:)];
-	appleObject.image		 = [UIImage imageNamed:@"apple"];
-	appleObject.text		 = @"apple";
-	appleObject.price		 = 1.30;
-	appleObject.quantity = 3;
+APGraph.h
+APGraphVertex.h
+APGraphEdge.h
+APGraphRoute.h
+APGraphRouteStep.h
+APGraphPoint.h
+APGraphPointGeo.h
+APGraphPointPixel.h
 
-	[ _scrollview addSubview:appleObject.imageView ];   
+libAPGraph.a
 ```
 
-## TODO
-Everithing!
-You can set quantity, add, remove objects, etc...
-Nothing implemented seriously.
+and add an import for:
+
+`#import "APGraphLib.h"`
+
+Next, make a graph, adding vertex, edges and point (Geo or Pixel), like in the TestCase.
 
 
-## Copyrigth
 
-(c)2012 Alberto Pasca - albertopasca.it.
+Todo
+------------
+A lot of customization. It's only an example.
 
-## License
 
-Have fun.
+Copyrigth
+------------
+
+(c)2013 Alberto Pasca - albertopasca.it.
+
+
+MIT License
+------------
+
+The MIT License (MIT)
+
+(c)2013 Alberto Pasca
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
