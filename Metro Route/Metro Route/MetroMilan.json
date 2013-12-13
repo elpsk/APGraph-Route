@@ -1,0 +1,1285 @@
+{
+    "ret": 0,
+    "ref_px": [
+        {
+            "w": 1024,
+            "h": 768
+        }
+    ],
+    "fermate": [
+        {
+            "id": "0",
+            "name": "Sesto FS",
+            "links": "1",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 180
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "name": "Sesto Rondo'",
+            "links": "0,2",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 206
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Sesto Marelli",
+            "links": "1,3",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 240
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Villa San Giovanni",
+            "links": "2,4",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 262
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Precotto",
+            "links": "3,5",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 286
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Gorla",
+            "links": "4,6",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 310
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Turro",
+            "links": "5,7",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 334
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Rovereto",
+            "links": "6,8",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 358
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Pasteur",
+            "links": "7,9",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 378
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Loreto",
+            "links": "8,10",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 400
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Lima",
+            "links": "9,11",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 430
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Porta Venezia",
+            "links": "10,12",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 458
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Palestro",
+            "links": "11,13",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 710,
+                    "y": 470
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "San Babila",
+            "links": "12,14",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 699,
+                    "y": 484
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "name": "Duomo",
+            "links": "13,15",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 682,
+                    "y": 500
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Cordusio",
+            "links": "14,16",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 654,
+                    "y": 502
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "name": "Cairoli",
+            "links": "15,17",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 604,
+                    "y": 502
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "name": "CadornaR",
+            "links": "16,18",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 573,
+                    "y": 502
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "name": "Conciliazione",
+            "links": "17,19",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 535,
+                    "y": 502
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "name": "Pagano",
+            "links": "18,20,31",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 492,
+                    "y": 502
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "name": "Buonarroti",
+            "links": "19,21",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 450,
+                    "y": 482
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "name": "Amendola",
+            "links": "20,22",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 440,
+                    "y": 468
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "name": "Lotto",
+            "links": "21,23",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 426,
+                    "y": 456
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "name": "QT8",
+            "links": "22,24",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 415,
+                    "y": 444
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "name": "Lampugnano",
+            "links": "23,25",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 404,
+                    "y": 432
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "name": "Uruguay",
+            "links": "24,26",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 392,
+                    "y": 420
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "name": "Bonola",
+            "links": "25,27",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 380,
+                    "y": 408
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "name": "San Leonardo",
+            "links": "26,28",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 367,
+                    "y": 394
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "name": "Molino Dorino",
+            "links": "27,29",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 353,
+                    "y": 378
+                }
+            ]
+        },
+        {
+            "id": "29",
+            "name": "Pero",
+            "links": "28,30",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 339,
+                    "y": 364
+                }
+            ]
+        },
+        {
+            "id": "30",
+            "name": "Rho Fiera",
+            "links": "29",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 325,
+                    "y": 354
+                }
+            ]
+        },
+        {
+            "id": "31",
+            "name": "Wagner",
+            "links": "19,32",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 458,
+                    "y": 515
+                }
+            ]
+        },
+        {
+            "id": "32",
+            "name": "De Angeli",
+            "links": "31,33",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 444,
+                    "y": 526
+                }
+            ]
+        },
+        {
+            "id": "33",
+            "name": "Gambara",
+            "links": "32,34",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 431,
+                    "y": 540
+                }
+            ]
+        },
+        {
+            "id": "34",
+            "name": "Bande Nere",
+            "links": "33,35",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 418,
+                    "y": 555
+                }
+            ]
+        },
+        {
+            "id": "35",
+            "name": "Primaticcio",
+            "links": "34,36",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 406,
+                    "y": 570
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "name": "Inganni",
+            "links": "35,37",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 392,
+                    "y": 584
+                }
+            ]
+        },
+        {
+            "id": "37",
+            "name": "Bisceglie",
+            "links": "36",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 376,
+                    "y": 600
+                }
+            ]
+        },
+        {
+            "id": "38",
+            "name": "Cologno Nord",
+            "links": "39",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 874,
+                    "y": 281
+                }
+            ]
+        },
+        {
+            "id": "39",
+            "name": "Cologno Centro",
+            "links": "38,40",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 874,
+                    "y": 302
+                }
+            ]
+        },
+        {
+            "id": "40",
+            "name": "Cologno Sud",
+            "links": "39",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 874,
+                    "y": 318
+                }
+            ]
+        },
+        {
+            "id": "41",
+            "name": "Gessate",
+            "links": "42",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 175
+                }
+            ]
+        },
+        {
+            "id": "42",
+            "name": "Cascina Antonietta",
+            "links": "41,43",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 190
+                }
+            ]
+        },
+        {
+            "id": "43",
+            "name": "Gorgonzola",
+            "links": "42,44",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 207
+                }
+            ]
+        },
+        {
+            "id": "44",
+            "name": "Villa Pompea",
+            "links": "43,45",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 223
+                }
+            ]
+        },
+        {
+            "id": "45",
+            "name": "Bussero",
+            "links": "44,46",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 238
+                }
+            ]
+        },
+        {
+            "id": "46",
+            "name": "Cassina de' Pecchi",
+            "links": "45,47",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 253
+                }
+            ]
+        },
+        {
+            "id": "47",
+            "name": "Villa Fiorita",
+            "links": "46,48",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 269
+                }
+            ]
+        },
+        {
+            "id": "48",
+            "name": "Cernusco sul Naviglio",
+            "links": "47,49",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 285
+                }
+            ]
+        },
+        {
+            "id": "49",
+            "name": "Cascina Burrona",
+            "links": "48,50",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 299
+                }
+            ]
+        },
+        {
+            "id": "50",
+            "name": "Vimodrone",
+            "links": "49,51",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 891,
+                    "y": 318
+                }
+            ]
+        },
+        {
+            "id": "51",
+            "name": "Cascina Gobba",
+            "links": "50,52,40",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 868,
+                    "y": 344
+                }
+            ]
+        },
+        {
+            "id": "52",
+            "name": "Crescenzago",
+            "links": "51,53",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 854,
+                    "y": 357
+                }
+            ]
+        },
+        {
+            "id": "53",
+            "name": "Cimiano",
+            "links": "52,54",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 841,
+                    "y": 370
+                }
+            ]
+        },
+        {
+            "id": "54",
+            "name": "Udine",
+            "links": "53,55",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 828,
+                    "y": 384
+                }
+            ]
+        },
+        {
+            "id": "55",
+            "name": "Lambrate",
+            "links": "54,56",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 810,
+                    "y": 405
+                }
+            ]
+        },
+        {
+            "id": "56",
+            "name": "Piola-Città Studi",
+            "links": "55,57",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 774,
+                    "y": 405
+                }
+            ]
+        },
+        {
+            "id": "57",
+            "name": "Loreto",
+            "links": "56,58",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 721,
+                    "y": 405
+                }
+            ]
+        },
+        {
+            "id": "58",
+            "name": "Caiazzo",
+            "links": "57,59",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 689,
+                    "y": 405
+                }
+            ]
+        },
+        {
+            "id": "59",
+            "name": "Centrale",
+            "links": "58,60",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 658,
+                    "y": 405
+                }
+            ]
+        },
+        {
+            "id": "60",
+            "name": "Gioia",
+            "links": "59,61",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 635,
+                    "y": 405
+                }
+            ]
+        },
+        {
+            "id": "61",
+            "name": "Garibaldi FS",
+            "links": "60,62",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 607,
+                    "y": 405
+                }
+            ]
+        },
+        {
+            "id": "62",
+            "name": "Moscova",
+            "links": "61,63",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 574,
+                    "y": 440
+                }
+            ]
+        },
+        {
+            "id": "63",
+            "name": "Lanza",
+            "links": "62,64",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 574,
+                    "y": 465
+                }
+            ]
+        },
+        {
+            "id": "64",
+            "name": "CadornaV",
+            "links": "63,65",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 574,
+                    "y": 500
+                }
+            ]
+        },
+        {
+            "id": "65",
+            "name": "Sant'Ambrogio",
+            "links": "64,66",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 574,
+                    "y": 529
+                }
+            ]
+        },
+        {
+            "id": "66",
+            "name": "Sant'Agostino",
+            "links": "65,67",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 574,
+                    "y": 544
+                }
+            ]
+        },
+        {
+            "id": "67",
+            "name": "Porta Genova",
+            "links": "66,68",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 574,
+                    "y": 558
+                }
+            ]
+        },
+        {
+            "id": "68",
+            "name": "Romolo",
+            "links": "67,69",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 574,
+                    "y": 572
+                }
+            ]
+        },
+        {
+            "id": "69",
+            "name": "Famagosta",
+            "links": "68,70,71",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 574,
+                    "y": 592
+                }
+            ]
+        },
+        {
+            "id": "70",
+            "name": "Abbiategrasso",
+            "links": "69",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 592,
+                    "y": 623
+                }
+            ]
+        },
+        {
+            "id": "71",
+            "name": "Assago Nord",
+            "links": "70,72",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 552,
+                    "y": 626
+                }
+            ]
+        },
+        {
+            "id": "72",
+            "name": "Assago Forum",
+            "links": "71",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 541,
+                    "y": 640
+                }
+            ]
+        },
+        {
+            "id": "73",
+            "name": "Comasina",
+            "links": "74",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 526,
+                    "y": 250
+                }
+            ]
+        },
+        {
+            "id": "74",
+            "name": "Affori FN",
+            "links": "73,75",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 548,
+                    "y": 271
+                }
+            ]
+        },
+        {
+            "id": "75",
+            "name": "Affori Centro",
+            "links": "74,76",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 577,
+                    "y": 304
+                }
+            ]
+        },
+        {
+            "id": "76",
+            "name": "Dergano",
+            "links": "75,77",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 588,
+                    "y": 314
+                }
+            ]
+        },
+        {
+            "id": "77",
+            "name": "Maciachini",
+            "links": "76,78",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 596,
+                    "y": 326
+                }
+            ]
+        },
+        {
+            "id": "78",
+            "name": "Zara",
+            "links": "77,79",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 606,
+                    "y": 336
+                }
+            ]
+        },
+        {
+            "id": "79",
+            "name": "Sondrio",
+            "links": "78,80",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 649,
+                    "y": 380
+                }
+            ]
+        },
+        {
+            "id": "80",
+            "name": "Centrale",
+            "links": "79,81",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 659,
+                    "y": 404
+                }
+            ]
+        },
+        {
+            "id": "81",
+            "name": "Repubblica",
+            "links": "80,82",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 659,
+                    "y": 458
+                }
+            ]
+        },
+        {
+            "id": "82",
+            "name": "Turati",
+            "links": "81,83",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 659,
+                    "y": 470
+                }
+            ]
+        },
+        {
+            "id": "83",
+            "name": "Montenapoleone",
+            "links": "82,84",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 664,
+                    "y": 482
+                }
+            ]
+        },
+        {
+            "id": "84",
+            "name": "Duomo",
+            "links": "83,85",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 682,
+                    "y": 500
+                }
+            ]
+        },
+        {
+            "id": "85",
+            "name": "Missori",
+            "links": "84,86",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 696,
+                    "y": 518
+                }
+            ]
+        },
+        {
+            "id": "86",
+            "name": "Crocetta",
+            "links": "85,87",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 712,
+                    "y": 532
+                }
+            ]
+        },
+        {
+            "id": "87",
+            "name": "Porta Romana",
+            "links": "86,88",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 723,
+                    "y": 546
+                }
+            ]
+        },
+        {
+            "id": "88",
+            "name": "Lodi T.I.B.B.",
+            "links": "87,89",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 740,
+                    "y": 562
+                }
+            ]
+        },
+        {
+            "id": "89",
+            "name": "Brenta",
+            "links": "88,90",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 766,
+                    "y": 592
+                }
+            ]
+        },
+        {
+            "id": "90",
+            "name": "Corvetto",
+            "links": "89,91",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 780,
+                    "y": 607
+                }
+            ]
+        },
+        {
+            "id": "91",
+            "name": "Porto di Mare",
+            "links": "90,92",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 794,
+                    "y": 623
+                }
+            ]
+        },
+        {
+            "id": "92",
+            "name": "Rogoredo",
+            "links": "91,93",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 818,
+                    "y": 644
+                }
+            ]
+        },
+        {
+            "id": "93",
+            "name": "San Donato",
+            "links": "92",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 841,
+                    "y": 644
+                }
+            ]
+        },
+        {
+            "id": "94",
+            "name": "Bignami",
+            "links": "95",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 606,
+                    "y": 240
+                }
+            ]
+        },
+        {
+            "id": "95",
+            "name": "Ponale",
+            "links": "94,96",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 606,
+                    "y": 254
+                }
+            ]
+        },
+        {
+            "id": "96",
+            "name": "Bicocca",
+            "links": "95,97",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 606,
+                    "y": 271
+                }
+            ]
+        },
+        {
+            "id": "97",
+            "name": "Ca' Granda",
+            "links": "96,98",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 606,
+                    "y": 287
+                }
+            ]
+        },
+        {
+            "id": "98",
+            "name": "Istria",
+            "links": "97,99",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 606,
+                    "y": 303
+                }
+            ]
+        },
+        {
+            "id": "99",
+            "name": "Marche",
+            "links": "98,100",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 606,
+                    "y": 320
+                }
+            ]
+        },
+        {
+            "id": "100",
+            "name": "Zara",
+            "links": "99,77,79",
+            "weight": "1",
+            "position": [
+                {
+                    "x": 606,
+                    "y": 335
+                }
+            ]
+        },
+        {
+            "id": "101",
+            "name": "LoretoRV",
+            "links": "9,57",
+            "weight": "3",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 401
+                }
+            ]
+        },
+        {
+            "id": "102",
+            "name": "CadornaRV",
+            "links": "17,64",
+            "weight": "3",
+            "position": [
+                {
+                    "x": 573,
+                    "y": 502
+                }
+            ]
+        },
+        {
+            "id": "103",
+            "name": "CentraleGV",
+            "links": "59,80",
+            "weight": "3",
+            "position": [
+                {
+                    "x": 658,
+                    "y": 405
+                }
+            ]
+        },
+        {
+            "id": "104",
+            "name": "DuomoRG",
+            "links": "14,84",
+            "weight": "3",
+            "position": [
+                {
+                    "x": 722,
+                    "y": 401
+                }
+            ]
+        },
+        {
+            "id": "105",
+            "name": "ZaraLG",
+            "links": "78,100",
+            "weight": "3",
+            "position": [
+                {
+                    "x": 606,
+                    "y": 336
+               }
+            ]
+        }
+
+
+    ]
+}
